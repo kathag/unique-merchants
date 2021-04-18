@@ -7,8 +7,10 @@ Efficiently groups similar values in large (or small) datasets. it builds a docu
 
 # How do I use it?
 This Project have python3 notebook. 
+```
 Dependencies:
 pandas
 scikit-learn
 scipy
 numpy
+```
