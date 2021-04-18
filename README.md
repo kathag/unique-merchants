@@ -17,7 +17,7 @@ Dependencies:
 Project Contains Matcher class, which calculates tf-idf scoring and cosine similarties.
 
 ```
-Matcher((df, columns_to_group, match_threshold=0.75, ngram_remove=r'[,-./]', ngram_length=3))
+Matcher(df, columns_to_group, match_threshold=0.75, ngram_remove=r'[,-./]', ngram_length=3)
 ```
 
 ## Class parameters:
